@@ -3,7 +3,8 @@
 
 <div class="status-bar">
         <div class="left-grid">
-
+                <div id="time_service"></div>
+                <script src="FOIL-time.js"></script>
         </div>
         <div class="center">
 
