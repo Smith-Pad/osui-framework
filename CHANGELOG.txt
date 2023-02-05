@@ -1,0 +1,31 @@
+                           _________________
+
+                               CHANGELOG
+
+                            
+                           _________________
+
+
+Table of Contents
+_________________
+
+1. v1.0.0
+.. 1. More information:
+
+
+
+
+
+1 v1.0.0
+========
+
+  - Created Component: Status-Bar
+
+
+1.1 More information:
+~~~~~~~~~~~~~~~~~~~~~
+
+  - Status bar allows the ability to see the time.
+
+  - Other features will be implemented in later versions of the
+    framework.

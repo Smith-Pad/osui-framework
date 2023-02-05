@@ -1,0 +1,12 @@
+#+TITLE: CHANGELOG
+
+** v1.0.0
+
+- Created Component: Status-Bar
+
+*** More information: 
+
+- Status bar allows the ability to see the time.
+
+- Other features will be implemented in later versions of
+  the framework.

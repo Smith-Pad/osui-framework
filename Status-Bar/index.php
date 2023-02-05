@@ -10,6 +10,6 @@
 
         </div>
         <div class="right-grid">
-
+                <button class="status-bar-button power"></button>
         </div>
 </div>

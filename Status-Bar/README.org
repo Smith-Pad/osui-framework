@@ -1,0 +1,7 @@
+#+title: Status Bar
+
+* Introduction
+Status bar allows the ability to see the time.
+
+Other features will be implemented in later versions of
+the framework.
